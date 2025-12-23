@@ -20,6 +20,10 @@ This project analyzes sales performance and customer behavior of a fashion bouti
 - Total Sales
 - Total Orders
 - Average Order Value
+
+![Dashboard](images/1st page.png)
+
+
 - Customer Count
 
 ## Dataset
