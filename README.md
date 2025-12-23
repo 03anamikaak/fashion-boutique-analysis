@@ -20,10 +20,6 @@ This project analyzes sales performance and customer behavior of a fashion bouti
 - Total Sales
 - Total Orders
 - Average Order Value
-
-![Dashboard](images/1st page.png)
-
-
 - Customer Count
 
 ## Dataset
@@ -31,3 +27,10 @@ Sample fashion boutique sales dataset (Excel)
 
 ## Dashboard Preview
 Screenshots added below.
+## Dashboard Screenshots
+
+![Dashboard Page 1](1st page.png)
+![Dashboard Page 2](2nd page.png)
+![Dashboard Page 3](3rd page.png)
+![Dashboard Page 4](4th page.png)
+
