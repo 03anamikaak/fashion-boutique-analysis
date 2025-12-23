@@ -29,7 +29,7 @@ Sample fashion boutique sales dataset (Excel)
 Screenshots added below.
 ## Dashboard Screenshots
 
-![Dashboard Page 1](1st page.png)
+![1st page](1st page.png)
 ![Dashboard Page 2](2nd page.png)
 ![Dashboard Page 3](3rd page.png)
 ![Dashboard Page 4](4th page.png)
